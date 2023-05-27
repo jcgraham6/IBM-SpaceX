@@ -1,2 +1,2 @@
 # IBM-SpaceX
-Using public information, predict if SpaceX will reuse the first stage of a rocket launch
+Leverage webscraping to collect data on the different launches of SpaceX. Explore data through a mix of visuals and analysis, concluding with a Plotly interactive dashboard and a selection of machine learning models to predict if the first stage of the launch will land. Determing if the first stage will land is critical in understanding the potential cost of a launch as if the landing is successful, the first stage can be recycled reducing the cost by about $100 million.
